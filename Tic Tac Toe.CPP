@@ -1,7 +1,5 @@
 //Tic Tac Toe GAME
-//Submitted By Sanket Chikate ( schikate@gmail.com )
-//Downloaded From c4cpp.co.nr
-//Password : password
+//Submitted By Kshitiz Thapa ( tumsinghkshitiz@gmail.com )
 
 #include <iostream.h>
 #include <conio.h>
